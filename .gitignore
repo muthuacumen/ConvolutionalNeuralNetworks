@@ -1,0 +1,25 @@
+# Data files — too large for Git
+data/
+
+# Model files — too large for Git
+models/
+
+# Virtual environment
+.venv/
+
+# Personal study notes — not for submission
+TeachMuthu.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Claude Code settings
+.claude/
