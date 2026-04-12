@@ -3,7 +3,7 @@
 Workshop submission: **Fine-Tuning a Neural Network** — adapting a pre-trained VGG16 image classifier (originally trained on ImageNet) to tell dogs from cats with a small custom dataset.
 # Student Name/Team Members
 Prajesh Bhatt  
-KevinKumar Patel
+KevinKumar Patel  
 Muthuraj Jayakumar
 
 ## What's in this repo
